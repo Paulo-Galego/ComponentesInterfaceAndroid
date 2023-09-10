@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ComponentesInterface" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Cores primarias -->
+        <item name="colorPrimary">@color/primaria</item>
+        <item name="colorPrimaryVariant">@color/primaria_variacao</item>
+        <item name="colorOnPrimary">@color/texto_primaria</item>
+
+        <!-- Cores secundariass -->
+        <item name="colorSecondary">@color/secundaria</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+    </style>
+
+    <style name="Theme.ComponentesInterface" parent="Base.Theme.ComponentesInterface" />
+    
+    <style name="CaixaTexto" parent="TextAppearance.AppCompat.Button">
+        <item name="android:textColor">@color/secundaria_escuro</item>
+    </style>
+</resources>

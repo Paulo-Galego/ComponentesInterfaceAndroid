@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Cores customizadas-->
+    <color name="amarelao">#e21221</color>
+
+    <!--Cores customizadas parao tema-->
+    <color name="primaria">#E91e63</color>
+    <color name="primaria_variacao">#673AB7</color>
+    <color name="texto_primaria">#FFEB3B</color>
+
+<!-- Cores secundarias   -->
+    <color name="secundaria">#8BC34A</color>
+
+
+    <!-- Cores primárias tema escuro -->
+    <color name="primaria_escuro">#fb8500</color>
+    <color name="secundaria_escuro">#ffb703</color>
+
+
+</resources>
